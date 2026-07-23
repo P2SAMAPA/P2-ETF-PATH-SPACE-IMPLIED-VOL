@@ -2,7 +2,7 @@ name: Daily Path-Space IV Training
 
 on:
   schedule:
-    - cron: '40 00 * * *'
+    - cron: '30 23 * * *'
   workflow_dispatch:
 
 jobs:
